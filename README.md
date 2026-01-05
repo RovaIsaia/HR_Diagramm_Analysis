@@ -17,3 +17,6 @@ A code package to analyze a dataset (6-class CSV) and generate a Hertzsprung-Rus
 2. Run the script to generate the HR diagram:
    ```bash
    python HR_Diagram_Maker.py
+
+## App Test
+**Links for the App(Github + Streamlit)** : https://hrdiagrammaker-hthrjgunswccf4xg7pbhtf.streamlit.app/
